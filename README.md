@@ -1,4 +1,4 @@
-#                                   Modelling-and-Controll-of-LVAD 
+# Modelling and Controll of Left Ventricular Assist Device # 
 ![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-01.jpg)
 ![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-02.jpg)
 ![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-03.jpg)
