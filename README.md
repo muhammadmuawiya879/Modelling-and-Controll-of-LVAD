@@ -1,2 +1,15 @@
-# Modelling-and-Controll-of-LVAD
-A Dynamical State Space Representation and Performance Analysis of a Feedback-Controlled Rotary Left Ventricular Assist Device.
+# Modelling-and-Controll-of-LVAD < -
+![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-01.jpg)
+![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-02.jpg)
+![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-03.jpg)
+![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-04.jpg)
+![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-05.jpg)
+![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-06.jpg)
+![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-07.jpg)
+![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-08.jpg)
+![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-09.jpg)
+![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-10.jpg)
+![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-11.jpg)
+![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-12.jpg)
+![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-13.jpg)
+![](https://github.com/muhammadmuawiya879/Modelling-and-Controll-of-LVAD/blob/main/Images/Research%20Paper/Research%20Paper-14.jpg)
